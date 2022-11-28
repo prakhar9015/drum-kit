@@ -39,6 +39,11 @@ function make_sound(key) {
       tom1.play();
       break;
 
+    case "My":
+      var prakhar = new Audio("sounds/New recording 6.m4a");
+      prakhar.play();
+      break;
+
     case "a":
       var tom2 = new Audio("sounds/tom-2.mp3");
       tom2.play();
