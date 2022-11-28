@@ -44,6 +44,15 @@ footer {
     background-image: url("images/kick.png");
 }
 
+.my-sound {
+  background-image: url("images/prakhar.png");
+  width:200px;
+height:200px;
+border: 0;
+background-size: 100%;
+/* background-size: 600px auto; */
+}
+
 .set {
   margin: 10% auto;
 }
