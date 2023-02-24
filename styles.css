@@ -96,8 +96,8 @@ add-color {
 
 @media (max-width: 989px) {
   body {
-    /* width: 90%; */
-    max-width: 97%;
+    width: 100%;
+    /* max-width: 100%; */
   }
 
   .drum {
@@ -112,5 +112,9 @@ add-color {
     height: 200px;
     text-align: center;
     margin: 40px;
+  }
+
+  footer {
+    font-size: 1.3rem;
   }
 }
